@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\data.db",
+            "dialect": "SQLite",
+            "isActive": false,
+            "isConnected": false,
+            "name": "db"
+        },
+        {
+            "database": "${workspaceFolder}\\data.db",
+            "dialect": "SQLite",
+            "name": "db"
+        }
+    ]
+}
